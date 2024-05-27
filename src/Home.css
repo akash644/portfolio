@@ -1,0 +1,11 @@
+/* src/components/Home.css */
+.home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #61dafb;
+  color: #282c34;
+}

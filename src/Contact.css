@@ -1,0 +1,35 @@
+/* src/components/Contact.css */
+.contact {
+  padding: 4rem 2rem;
+  background: #f1f1f1;
+  text-align: center;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+form div {
+  margin-bottom: 1rem;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+form button {
+  padding: 0.5rem 2rem;
+  background: #282c34;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

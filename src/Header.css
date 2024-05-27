@@ -1,0 +1,20 @@
+/* src/components/Header.css */
+header {
+  background: #282c34;
+  padding: 1rem;
+  color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
